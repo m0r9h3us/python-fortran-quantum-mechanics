@@ -1,2 +1,2 @@
 # python-fortran-quantum-mechanics
-Some exercise from therocetical computational physics
+Some exercise from theocretical computational physics
